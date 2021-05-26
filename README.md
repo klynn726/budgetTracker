@@ -31,6 +31,8 @@ Katherine Lynn with starter code from Xandromus
 
 ## Github repository: 
 
-[Github repository](https://github.com/klynn726/budgetTracker)
+[Github Repository](https://github.com/klynn726/budgetTracker)
 
-## Heroku link
+## Heroku link:
+
+[Deployed Link](https://guarded-ridge-80980.herokuapp.com/)
